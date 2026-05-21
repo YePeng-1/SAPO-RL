@@ -1,4 +1,4 @@
-# SAPO-RL: Sparse Adaptive Optimization for Reinforcement Learning
+# SAPO-RL: Sequential Actuator Placement Optimization for Fuselage Assembly via Reinforcement Learning
 
 ## Overview
 
